@@ -9,7 +9,7 @@ This is a simple Spring Boot project demonstrating how to use the `@Async` annot
 - Use of `@Async` to run tasks in a separate thread
 - Logging thread names to show asynchronous behavior
 - Example of long-running simulated task
-- Optional usage of `CompletableFuture` for returning async results
+
 
 ---
 
